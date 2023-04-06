@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amit Purswani (available for Immediate Joining)
 - 👀 I’m interested in Data Analytics and Visualizations
-- 🌱 I’m currently up-skilling in Python, Tableau, MySQL and Power BI 
+- 🌱 I’m currently up-skilling in Tableau, MySQL and Power BI 
 - 💞️ I’m looking for Data Analyst full-time job role in Mumbai, India
-- 💼 My Work is available to see in https://github.com/kranemetal/Data-Analysis-Projects
+- 💼 My Work is available to see in https://github.com/kranemetal/Tableau_Dashboards
 - 📫 How to reach me amitrpurswani@gmail.com or https://www.linkedin.com/in/amit-purswani-2a073777/
 
 <!---
